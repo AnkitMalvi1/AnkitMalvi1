@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitmalvi1" alt="ankitmalvi1" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/twankit1" target="blank"><img src="https://img.shields.io/twitter/follow/twankit1?logo=twitter&style=for-the-badge" alt="twankit1" /></a> </p>
+<p align="left"> <a href="https://twitter.com/AnkitLohar152" target="blank"><img src="https://img.shields.io/twitter/follow/AnkitLohar152?logo=twitter&style=for-the-badge" alt="AnkitLohar152" /></a> </p>
 
 - 🔭 I’m currently working on **COMPUTER SCIENCE**
 
