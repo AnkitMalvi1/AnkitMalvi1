@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ankit Lohar</h1>
+<h1 align="center">Hi 👋, I'm Ankit Malvi</h1>
 <h3 align="center">A Passionate Frontend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitmalvi1&label=Profile%20views&color=0e75b6&style=flat" alt="ankitmalvi1" /> </p>
@@ -7,23 +7,23 @@
 
 <p align="left"> <a href="https://twitter.com/ankitlohar152" target="blank"><img src="https://img.shields.io/twitter/follow/ankitlohar152?logo=twitter&style=for-the-badge" alt="ankitlohar152" /></a> </p>
 
-- 🔭 I’m currently working on ['Netflix Clone'](https://github.com/AnkitMalvi1)
+- 🔭 I’m currently working on ['N...... C....'](https://github.com/AnkitMalvi1)
 
 - 🌱 I’m currently learning **'Web-Dev, App-Dev & DSA'**
 
-- 👯 I’m looking to collaborate on ['Web Development'](https://github.com/AnkitMalvi1)
+- 👯 I’m looking to collaborate on ['LinkedIn'](https://www.linkedin.com/in/ankit-malviya-81b692219/)
 
-- 🤝 I’m looking for help with ['Discord'](https://discord.gg/bFUm5RDh3w)
+- 🤝 I’m looking for help with ['LinkedIn' & 'Discord'](https://discord.gg/bFUm5RDh3w)
 
-- 👨‍💻 All of my projects are available at [https://github.com/AnkitMalvi1](https://github.com/AnkitMalvi1)
+- 👨‍💻 All of my projects are available at **'Github' & 'LinkedIn'**
 
-- 📝 I regularly write articles on [(Technical) Development]((Technical) Development)
+- 📝 I regularly write articles on **'Programming Concepts' & 'Web-Development'**
 
-- 💬 Ask me about **JS, ReactJS, Web-Dev**
+- 💬 Ask me about ***'What do you like to know?'***
 
-- 📫 How to reach me **https://www.linkedin.com/in/ankit-malviya-81b692219/**
+- 📫 How to reach me ['My Profile](https://www.linkedin.com/in/ankit-malviya-81b692219/)
 
-- 📄 Know about my experiences [https://bit.ly/3vxt1sx](https://bit.ly/3vxt1sx)
+- 📄 Know about my experiences ["My Portfolio Website"](https://bit.ly/3vxt1sx)
 
 - ⚡ Fun fact **'Be the Unique One!'**
 
