@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on "#####"<br>👯 I’m looking to collaborate on 'LinkedIn'<br>🌱 I’m currently learning 'Web-Dev' & 'DSA'<br>💬 Ask me about 'My Skills'<br>⚡ Fun fact 'Be the Unique One!'
+🔭 I’m currently working on "#####"<br>👯 I’m looking to collaborate on 'LinkedIn'<br>
 
 
 ## 🌐 Socials:
