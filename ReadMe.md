@@ -13,7 +13,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=AnkitMalvi1&theme=oldie&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-### ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AnkitMalvi1&icon=5&color=11)](https://visitcount.itsvg.in)
